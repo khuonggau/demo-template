@@ -4,6 +4,16 @@ $(function(){
 	var hash = window.location.hash;
 	hash && $("ul.nav a[href='" + hash + "']").tab('show');
 
+	// controlling opening of accordions
+	$("#monday.accordion-body").addClass("in");
+	$("#artists #tuesday.accordion-body").addClass("in");
+	$("#artists #wednesday.accordion-body").addClass("in");
+
+	// add bootstrap classes to photos
+	$(".abouttheartists img").addClass("img-circle");
+	$("aside.photosfromlastyear img").addClass("img-thumbnail");
+	$(".artistinfo .photogrid img").addClass("img-circle");
+
 	// highlight the current nav
 	$("#home a:contains('Home')").parent().addClass('active');
 	$("#schedule a:contains('Schedule')").parent().addClass('active');
