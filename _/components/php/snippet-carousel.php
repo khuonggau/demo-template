@@ -8,11 +8,11 @@
 	</ol>
 
 	<section class="carousel-inner">
-		<div class="active item"><img src="images/carousel/seattle_skyline.jpg" alt="Photo of Seattle Skyline" /></div>
-		<div class="item"><img src="images/carousel/jewelry_workshop.jpg" alt="Photo of jewelry_workshop" /></div>
-		<div class="item"><img src="images/carousel/painting_workshop.jpg" alt="Photo of painting_workshop" /></div>
-		<div class="item"><img src="images/carousel/pottery_workshop.jpg" alt="Photo of pottery_workshop" /></div>
-		<div class="item"><img src="images/carousel/quicksketch_workshop.jpg" alt="Photo of quicksketch_workshop" /></div>
+		<div class="active item"><img src="images/carousel/carousel_captain_america.jpg" alt="Photo of Captain America" /></div>
+		<div class="item"><img src="images/carousel/carousel_iron_man.jpg" alt="Photo of Iron Man" /></div>
+		<div class="item"><img src="images/carousel/carousel_thor.jpg" alt="Photo of Thor" /></div>
+		<div class="item"><img src="images/carousel/carousel_hulk.jpg" alt="Photo of Hulk" /></div>
+		<div class="item"><img src="images/carousel/carousel_black_widow.jpg" alt="Photo of Black Widow" /></div>
 	</section><!-- carousel-inner -->
 
 	<a href="#myCarousel" class="left carousel-control" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
