@@ -11,15 +11,15 @@
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Characters <span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-							<li><a tabindex="-1" href="artists.php">All characters</a></li>
+							<li><a tabindex="-1" href="characters.php">All characters</a></li>
 							<li class="divider"></li>
-							<li><a tabindex="-1" href="artists.php#Captain_America">Captain America</a></li>
-							<li><a tabindex="-1" href="artists.php#Iron_Man">Iron Man</a></li>
-							<li><a tabindex="-1" href="artists.php#Thor">Thor</a></li>
-							<li><a tabindex="-1" href="artists.php#Hulk">Hulk</a></li>
-							<li><a tabindex="-1" href="artists.php#Black_Widow">Black Widow</a></li>
-							<li><a tabindex="-1" href="artists.php#Hawkeye">Hawkeye</a></li>
-							<li><a tabindex="-1" href="artists.php#Nick_Fury">Nick Fury</a></li>
+							<li><a tabindex="-1" href="characters.php#Captain_America">Captain America</a></li>
+							<li><a tabindex="-1" href="characters.php#Iron_Man">Iron Man</a></li>
+							<li><a tabindex="-1" href="characters.php#Thor">Thor</a></li>
+							<li><a tabindex="-1" href="characters.php#Hulk">Hulk</a></li>
+							<li><a tabindex="-1" href="characters.php#Black_Widow">Black Widow</a></li>
+							<li><a tabindex="-1" href="characters.php#Hawkeye">Hawkeye</a></li>
+							<li><a tabindex="-1" href="characters.php#Nick_Fury">Nick Fury</a></li>
 						</ul><!-- dropdown-menu -->
 					</li>
 					<li><a href="register.php">Register</a></li>
