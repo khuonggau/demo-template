@@ -1,6 +1,6 @@
 <article class="registrationform">
 	<h2>Registration form</h2>
-	<p>We're not currently taking registrations for the Roux Academy Conference, but if you want to be placed into our mailing list for more information, please complete the form below.</p>
+	<p>If you want to be placed into our mailing list for more information, please complete the form below.</p>
 
 	<form class="registration form-horizontal" action="#">
 
@@ -56,13 +56,13 @@
 			</section>
 
 			<section class="row">
-				<label class="col col-lg-4 control-label" for="reference">How did you hear about the Roux Academy Conference?</label>
+				<label class="col col-lg-4 control-label" for="reference">How did you hear khuonggau website?</label>
 				<div class="controls col col-lg-8">
 					<select   name="reference" id="reference">
 						<option>Choose...</option>
 						<option value="friend">A friend</option>
 						<option value="facebook">Facebook</option>
-						<option value="twitter">Twitter</option>
+						<option value="twitter">Email</option>
 					</select>
 				</div>
 			</section>

@@ -10,7 +10,7 @@ $(function(){
 	$("#artists #wednesday.accordion-body").addClass("in");
 
 	// add bootstrap classes to photos
-	$(".abouttheartists img").addClass("img-circle");
+	$(".aboutthecharacters img").addClass("img-circle");
 	$("aside.photosfromlastyear img").addClass("img-thumbnail");
 	$(".artistinfo .photogrid img").addClass("img-circle");
 

@@ -15,9 +15,8 @@
           <?php include "_/components/php/article-movies.php"; ?>
         </section><!-- main -->
         <section class="sidebar col col-lg-4">
-          <?php include "_/components/php/aside-register.php"; ?>
-          <?php include "_/components/php/aside-lastyear.php"; ?>
-          <?php include "_/components/php/aside-abouttheartists.php"; ?>
+          <?php include "_/components/php/aside-news.php"; ?>
+          <?php include "_/components/php/aside-collection.php"; ?>
         </section><!-- sidebar -->
       </div><!-- content -->
       <?php include "_/components/php/footer.php"; ?>

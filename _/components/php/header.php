@@ -6,7 +6,6 @@
 			<section class="navbar">
 				<ul class="nav navbar-nav">
 					<li><a href="index.php">Home</a></li>
-					<li><a href="venuetravel.php">Venue/Travel</a></li>
 					<li><a href="movies.php">Movies</a></li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Characters <span class="caret"></span></a>
