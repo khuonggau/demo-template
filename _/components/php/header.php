@@ -27,8 +27,10 @@
 			
 			<!-- Modal -->
 			<section id="modal" class="modal fade">
-				<div class="modal-body">
-					<img id="modalimage" src="" alt="Modal photo" />
-				</div><!-- modal-body -->
+				<div class="modal-dialog modal-lg">
+					<div class="modal-body">
+						<img id="modalimage" src="" alt="Modal photo" />
+					</div><!-- modal-body -->
+				</div><!-- modal-dialog -->
 			</section><!-- modal -->
 		</header><!-- header -->

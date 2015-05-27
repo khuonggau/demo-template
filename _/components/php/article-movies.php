@@ -1,6 +1,7 @@
 <article class="schedule">
 	<h1>Movies</h1>
 	<p>As of the start of the 2013 summer movie season, films based on Marvel's properties represent the highest-grossing U.S. franchise, having grossed over $5.4 billion as part of a worldwide gross of over $12 billion.</p>
+	<p>source: <a href="http://marvel.com/">marvel.com</a></p>
 
 	<div class="tabbable tabs">
 		<ul class="nav nav-tabs">

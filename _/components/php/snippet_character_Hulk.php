@@ -3,6 +3,7 @@
 	<img class="pull-left img-rounded" src="images/characters/Hulk_tn.jpg" alt="Photo of Hulk">
 	<div class="media-body">
 		<p>Caught in a gamma bomb explosion while trying to save the life of a teenager, Dr. Bruce Banner was transformed into the incredibly powerful creature called the Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger the Hulk gets.</p>
+		<p>source: <a href="http://marvel.com/">marvel.com</a></p>
 		<section class="modalphotos photogrid">
 			<h3>Artwork</h3>
 			<img src="images/characters/Hulk_01_tn.jpg">

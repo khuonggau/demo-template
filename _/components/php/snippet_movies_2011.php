@@ -7,6 +7,7 @@
 			<h4>Rating: PG-13 </h4>
 			<p>The epic adventure "Thor" spans the Marvel Universe from present day Earth to the realm of Asgard.</p>
 			<p>At the center of the story is The Mighty Thor, a powerful but arrogant warrior whose reckless actions reignite an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.</p>
+			<p>source: <a href="http://marvel.com/">marvel.com</a></p>
 	  	</div><!-- media-body -->
 	</section><!-- media -->
 
@@ -17,6 +18,7 @@
 			<h3>Captain America: The First Avenger</h3>
 			<h4>Rating: PG-13</h4>
 			<p>Marvel's "Captain America: The First Avenger" focuses on the early days of the Marvel Universe when Steve Rogers volunteers to participate in an experimental program that turns him into the Super Soldier known as Captain America.</p>
+	  		<p>source: <a href="http://marvel.com/">marvel.com</a></p>
 	  	</div><!-- media-body -->
 	</section><!-- media -->
 </div><!-- y2011 -->
